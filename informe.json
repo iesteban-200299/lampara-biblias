@@ -1,0 +1,551 @@
+{
+ "oso1569": {
+  "versiculos": 30634,
+  "libros": 64,
+  "librosQueFaltan": [
+   "EST",
+   "DAN"
+  ],
+  "faltan": 567,
+  "faltanEjemplos": [
+   "GEN 27:46",
+   "EXO 6:30",
+   "NUM 12:16",
+   "NUM 29:40",
+   "RUT 4:19",
+   "RUT 4:20",
+   "RUT 4:21",
+   "RUT 4:22",
+   "1SA 23:29",
+   "2SA 20:26",
+   "1CH 3:24",
+   "1CH 20:8"
+  ],
+  "sobran": 97,
+  "sobranEjemplos": [
+   "EXO 5:24",
+   "NUM 13:34",
+   "NUM 30:17",
+   "JDG 14:21",
+   "1SA 20:43",
+   "1SA 24:23",
+   "1KI 22:54",
+   "1CH 21:31",
+   "2CH 16:15",
+   "JOB 39:31",
+   "JOB 39:32",
+   "JOB 39:33"
+  ],
+  "clave": {
+   "PSA 23:1": "Pſalmo de Dauid.Iehoua es mi pastor, no me saltará.",
+   "JHN 3:16": "Porque de tal manera amó Dios àl mundo, que aya dado à ſu Hijo Vnigenito: paraquetodo aque",
+   "JOL 2:28": "Y ſerá, que deſpues deesto, Derramaré mi Eſpiritu ſobre toda carne, y prophetizarán vuestr",
+   "MAL 4:5": "Heaqui que yo os embio à Elias el Propheta, antes que venga el dia de Iehoua grande y terr",
+   "ROM 8:28": "Y ya sabemos, que à losque à Dios aman, todas las coſas les ayudan à bien, es à ſaber à lo",
+   "REV 22:21": "",
+   "GEN 1:1": "En el principio crio Dios los cielos, y la tierra."
+  },
+  "idioma": "es",
+  "ruta": "es/oso1569.json",
+  "sha256": "922f33bdc4c8c2a9b3235e29f8c9d52a9901978d65a2b6d746bf9fc7f111363b",
+  "bytes": 4529007
+ },
+ "blm": {
+  "versiculos": 31087,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 20,
+  "faltanEjemplos": [
+   "EZK 5:17",
+   "EZK 10:13",
+   "EZK 10:14",
+   "EZK 10:15",
+   "EZK 10:16",
+   "EZK 10:17",
+   "EZK 10:18",
+   "EZK 10:19",
+   "EZK 10:20",
+   "EZK 10:21",
+   "EZK 10:22",
+   "LUK 17:36"
+  ],
+  "sobran": 3,
+  "sobranEjemplos": [
+   "ROM 14:24",
+   "ROM 14:25",
+   "ROM 14:26"
+  ],
+  "clave": {
+   "PSA 23:1": "Salmo de David. Yahvé es mi pastor; nada me faltará.",
+   "JHN 3:16": "Porque tanto amó Dios al mundo, que dio a su Hijo unigénito, para que todo el que crea en ",
+   "JOL 2:28": "“Y después de esto derramaré mi Espíritu sobre toda carne; y profetizarán vuestros hijos y",
+   "MAL 4:5": "He aquí que yo os envío al profeta Elías antes de que llegue el día grande y terrible de Y",
+   "ROM 8:28": "Sabemos que todas las cosas cooperan para el bien de los que aman a Dios, de los que son l",
+   "REV 22:21": "La gracia del Señor Jesucristo sea con todos los santos. Amén.",
+   "GEN 1:1": "En el principio, Dios creó los cielos y la tierra."
+  },
+  "idioma": "es",
+  "ruta": "es/blm.json",
+  "sha256": "f733db06b0118a396b3637624e492abd2b961bf9f600953b83cb04d85fd7867a",
+  "bytes": 4708745
+ },
+ "rv1865": {
+  "versiculos": 31098,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 6,
+  "faltanEjemplos": [
+   "1CH 3:24",
+   "2CH 33:25",
+   "PSA 13:6",
+   "JER 39:18",
+   "3JN 1:15",
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "Salmo de David. Jehová es mi pastor; no me faltará.",
+   "JHN 3:16": "Porque de tal manera amó Dios al mundo, que haya dado a su Hijo unigénito; para que todo a",
+   "JOL 2:28": "Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestro",
+   "MAL 4:5": "He aquí que yo os envío a Elías el profeta, antes que venga el día de Jehová grande y terr",
+   "ROM 8:28": "Y sabemos, que todas las cosas obran juntamente para el bien de los que a Dios aman, es a ",
+   "REV 22:21": "La gracia de nuestro Señor Jesu Cristo sea con todos vosotros. Amén.",
+   "GEN 1:1": "En el principio creó Dios los cielos y la tierra."
+  },
+  "idioma": "es",
+  "ruta": "es/rv1865.json",
+  "sha256": "614ee04350322e36ff2ac0b054ae6bbcb1565ec6214bb165b248243f3c6ceba2",
+  "bytes": 4629597
+ },
+ "vbl": {
+  "versiculos": 31086,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 18,
+  "faltanEjemplos": [
+   "MAT 17:21",
+   "MAT 18:11",
+   "MAT 23:14",
+   "MRK 7:16",
+   "MRK 9:44",
+   "MRK 9:46",
+   "MRK 11:26",
+   "MRK 15:28",
+   "LUK 17:36",
+   "LUK 23:17",
+   "JHN 5:4",
+   "ACT 8:37"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "El Señor es mi pastor, y por ello tengo todo lo que necesito.",
+   "JHN 3:16": "“Porque Dios amó al mundo, y lo hizo de esta manera: entregó a su único Hijo, a fin de que",
+   "JOL 2:28": "“Después de esto derramaré mi Espíritu sobre todos. Sus hijos e hijas serán mis profetas, ",
+   "MAL 4:5": "¡Miren! Yo enviaré a Elías el profeta antes de que llegue el día del Señor, ese día grande",
+   "ROM 8:28": "Sabemos que en todas las cosas Dios obra para el bien de los que le aman, aquellos a quien",
+   "REV 22:21": "Que la gracia del Señor Jesús esté con los creyentes. Amén.",
+   "GEN 1:1": "En el principio, Dios creó los cielos y la tierra."
+  },
+  "idioma": "es",
+  "ruta": "es/vbl.json",
+  "sha256": "f225336d0f370ba2d6614713394b547d65ef8dbc58e3300df59342a0df4a95b6",
+  "bytes": 4895315
+ },
+ "bes": {
+  "versiculos": 31103,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 1,
+  "faltanEjemplos": [
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "El Señor es mi Pastor; Nada me faltará.",
+   "JHN 3:16": "Porque Dios tuvo tal amor por el mundo que le dio a su único Hijo, para que todo el que te",
+   "JOL 2:28": "Y después de eso, sucederá, dice el Señor, que enviaré mi espíritu sobre toda carne; y tus",
+   "MAL 4:5": "Mira, les estoy enviando a Elías el profeta antes de que llegue el día del Señor, ese gran",
+   "ROM 8:28": "Sabemos de que todas las cosas están funcionando juntas para bien a aquellos que tienen am",
+   "REV 22:21": "La gracia del Señor Jesús sea con todos ustedes. Amén.",
+   "GEN 1:1": "Al principio Dios hizo el cielo y la tierra."
+  },
+  "idioma": "es",
+  "ruta": "es/bes.json",
+  "sha256": "d7f5f4567901225abef360d78f4376f0813e14587298a843dc86958179f66907",
+  "bytes": 4868531
+ },
+ "kjv": {
+  "versiculos": 31102,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 2,
+  "faltanEjemplos": [
+   "3JN 1:15",
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm of David. THE Lord is my shepherd; I shall not want.",
+   "JHN 3:16": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth i",
+   "JOL 2:28": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and yo",
+   "MAL 4:5": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day",
+   "ROM 8:28": "And we know that all things work together for good to them that love God, to them who are ",
+   "REV 22:21": "The grace of our Lord Jesus Christ be with you all. Amen. THE END.",
+   "GEN 1:1": "IN the beginning God created the heaven and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/kjv.json",
+  "sha256": "197e97d1e34c16df171b843a6c8ee3bc2254b77af6ecd6dfc15a0b0471c5ff6b",
+  "bytes": 4855672
+ },
+ "bsb": {
+  "versiculos": 31086,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 18,
+  "faltanEjemplos": [
+   "MAT 17:21",
+   "MAT 18:11",
+   "MAT 23:14",
+   "MRK 7:16",
+   "MRK 9:44",
+   "MRK 9:46",
+   "MRK 11:26",
+   "MRK 15:28",
+   "LUK 17:36",
+   "LUK 23:17",
+   "JHN 5:4",
+   "ACT 8:37"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm of David. The LORD is my shepherd; I shall not want.",
+   "JHN 3:16": "For God so loved the world that He gave His one and only Son, that everyone who believes i",
+   "JOL 2:28": "And afterward, I will pour out My Spirit on all people. Your sons and daughters will proph",
+   "MAL 4:5": "Behold, I will send you Elijah the prophet before the coming of the great and awesome Day ",
+   "ROM 8:28": "And we know that God works all things together for the good of those who love Him, who are",
+   "REV 22:21": "The grace of the Lord Jesus be with all the saints. Amen.",
+   "GEN 1:1": "In the beginning God created the heavens and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/bsb.json",
+  "sha256": "03ecfb8242eaf2e5c132ea5233752bc22eb8a159a468ea63739f21225e8a0a9f",
+  "bytes": 4590051
+ },
+ "nheb": {
+  "versiculos": 31097,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 7,
+  "faltanEjemplos": [
+   "MRK 11:26",
+   "MRK 15:28",
+   "LUK 17:36",
+   "LUK 23:17",
+   "ACT 15:34",
+   "ACT 24:7",
+   "3JN 1:15"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm by David. The Lord is my shepherd: I shall lack nothing.",
+   "JHN 3:16": "For God so loved the world, that he gave his one and only Son, that whoever believes in hi",
+   "JOL 2:28": "\"It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and ",
+   "MAL 4:5": "Behold, I will send you Elijah the prophet before the great and terrible day of the Lord c",
+   "ROM 8:28": "We know that all things work together for good for those who love God, to those who are ca",
+   "REV 22:21": "The grace of the Lord Jesus be with all.",
+   "GEN 1:1": "In the beginning God created the heavens and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/nheb.json",
+  "sha256": "cbef5dd91d343d5488f57538a54e5f3c714c01872d30102634b1fe96e84f286b",
+  "bytes": 4748751
+ },
+ "asv": {
+  "versiculos": 31086,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 18,
+  "faltanEjemplos": [
+   "MAT 17:21",
+   "MAT 18:11",
+   "MAT 23:14",
+   "MRK 7:16",
+   "MRK 9:44",
+   "MRK 9:46",
+   "MRK 11:26",
+   "MRK 15:28",
+   "LUK 17:36",
+   "LUK 23:17",
+   "JHN 5:4",
+   "ACT 8:37"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm of David. Jehovah is my shepherd; I shall not want.",
+   "JHN 3:16": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth o",
+   "JOL 2:28": "And it shall come to pass afterward, that I will pour out my Spirit upon all flesh; and yo",
+   "MAL 4:5": "Behold, I will send you Elijah the prophet before the great and terrible day of Jehovah co",
+   "ROM 8:28": "And we know that to them that love God all things work together for good, even to them tha",
+   "REV 22:21": "The grace of the Lord Jesus be with the saints. Amen.",
+   "GEN 1:1": "In the beginning God created the heavens and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/asv.json",
+  "sha256": "3bae79dc146324fee84fcb3e5d34fe1ea20e5c8d14aac8faf477fda057cfca9c",
+  "bytes": 4857943
+ },
+ "ylt": {
+  "versiculos": 31102,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 2,
+  "faltanEjemplos": [
+   "3JN 1:15",
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm of David. Jehovah is my shepherd, I do not lack,",
+   "JHN 3:16": "for God did so love the world, that His Son--the only begotten--He gave, that every one wh",
+   "JOL 2:28": "And it hath come to pass afterwards, I do pour out My Spirit on all flesh, And prophesied ",
+   "MAL 4:5": "Lo, I am sending to you Elijah the prophet, Before the coming of the day of Jehovah, The g",
+   "ROM 8:28": "And we have known that to those loving God all things do work together for good, to those ",
+   "REV 22:21": "The grace of our Lord Jesus Christ is with you all. Amen.",
+   "GEN 1:1": "In the beginning of God's preparing the heavens and the earth--"
+  },
+  "idioma": "en",
+  "ruta": "en/ylt.json",
+  "sha256": "ec105fa207f312d8e7cbb3c32e813d92c2cd6cf13bd874f1dd8760d941a5aa21",
+  "bytes": 4839440
+ },
+ "darby": {
+  "versiculos": 31099,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 5,
+  "faltanEjemplos": [
+   "MAT 23:14",
+   "ACT 8:37",
+   "ACT 15:34",
+   "3JN 1:15",
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm of David. Jehovah is my shepherd; I shall not want.",
+   "JHN 3:16": "For God so loved the world, that he gave his only-begotten Son, that whosoever believes on",
+   "JOL 2:28": "And it shall come to pass afterwards [that] I will pour out my Spirit upon all flesh; and ",
+   "MAL 4:5": "Behold, I send unto you Elijah the prophet, before the coming of the great and terrible da",
+   "ROM 8:28": "But we do know that all things work together for good to those who love God, to those who ",
+   "REV 22:21": "The grace of the Lord Jesus Christ [be] with all the saints.",
+   "GEN 1:1": "In the beginning God created the heavens and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/darby.json",
+  "sha256": "b3e4ae561005777602e9d1c99417487c434a71e1d9ce2cdcda566226149493f8",
+  "bytes": 4815039
+ },
+ "webster": {
+  "versiculos": 31102,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 2,
+  "faltanEjemplos": [
+   "3JN 1:15",
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalm of David. The LORD [is] my shepherd; I shall not want.",
+   "JHN 3:16": "For God so loved the world, that he gave his only-begotten Son, that whoever believeth in ",
+   "JOL 2:28": "And it shall come to pass afterward, [that] I will pour out my spirit upon all flesh; and ",
+   "MAL 4:5": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day",
+   "ROM 8:28": "And we know that all things work together for good, to them that love God, to them who are",
+   "REV 22:21": "The grace of our Lord Jesus Christ [be] with you all. Amen.",
+   "GEN 1:1": "In the beginning God created the heaven and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/webster.json",
+  "sha256": "7ef5fd8374796cf01c4dabd8e6e7ad73f0924478638ef62b9cb49802d7dfbb3c",
+  "bytes": 4861705
+ },
+ "bbe": {
+  "versiculos": 31086,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 18,
+  "faltanEjemplos": [
+   "MAT 17:21",
+   "MAT 18:11",
+   "MAT 23:14",
+   "MRK 7:16",
+   "MRK 9:44",
+   "MRK 9:46",
+   "MRK 11:26",
+   "MRK 15:28",
+   "LUK 17:36",
+   "LUK 23:17",
+   "JHN 5:4",
+   "ACT 8:37"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "The Lord takes care of me as his sheep; I will not be without any good thing.",
+   "JHN 3:16": "For God had such love for the world that he gave his only Son, so that whoever has faith i",
+   "JOL 2:28": "And after that, it will come about, says the Lord, that I will send my spirit on all flesh",
+   "MAL 4:5": "See, I am sending you Elijah the prophet before the day of the Lord comes, that great day,",
+   "ROM 8:28": "And we are conscious that all things are working together for good to those who have love ",
+   "REV 22:21": "The grace of the Lord Jesus be with the saints. So be it.",
+   "GEN 1:1": "At the first God made the heaven and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/bbe.json",
+  "sha256": "e406c523f1cedc753c3b8d390ed15c75ac2041620b7afc25bc15ad11733eb6f8",
+  "bytes": 4876568
+ },
+ "geneva1599": {
+  "versiculos": 31064,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 40,
+  "faltanEjemplos": [
+   "NUM 12:16",
+   "NUM 29:40",
+   "1SA 23:29",
+   "2SA 1:27",
+   "EST 2:23",
+   "JOB 6:30",
+   "JOB 38:39",
+   "JOB 38:40",
+   "JOB 38:41",
+   "JOB 41:26",
+   "JOB 41:27",
+   "JOB 41:28"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "A Psalme of David. The Lord is my shepheard, I shall not want.",
+   "JHN 3:16": "For God so loued the worlde, that hee hath giuen his onely begotten Sonne, that whosoeuer ",
+   "JOL 2:28": "And afterward will I powre out my Spirit vpon all flesh: and your sonnes and your daughter",
+   "MAL 4:5": "Beholde, I will sende you Eliiah the Prophet before the comming of the great and fearefull",
+   "ROM 8:28": "Also we knowe that all thinges worke together for the best vnto them that loue God, euen t",
+   "REV 22:21": "The grace of our Lord Iesus Christ be with you all, AMEN.",
+   "GEN 1:1": "In the beginning God created the heauen and the earth."
+  },
+  "idioma": "en",
+  "ruta": "en/geneva1599.json",
+  "sha256": "64e5ca9074168f4fe47fc11355869f37d3c4ddefddd751ecb98ef0695ba9086b",
+  "bytes": 4891062
+ },
+ "blivre": {
+  "versiculos": 31102,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 2,
+  "faltanEjemplos": [
+   "PSA 46:3",
+   "3JN 1:15"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "Salmo de Davi: O SENHOR é meu pastor, nada me faltará.",
+   "JHN 3:16": "Porque Deus amou ao mundo de tal maneira, que deu o seu Filho unigênito; para que todo aqu",
+   "JOL 2:28": "E será depois que derramarei meu Espírito sobre toda carne; e vossos filhos e vossas filha",
+   "MAL 4:5": "Eis que eu vos envio o profeta Elias, antes que venha o grande e temível dia do SENHOR.",
+   "ROM 8:28": "E sabemos que todas as coisas juntamente contribuem para o bem daqueles que amam a Deus, d",
+   "REV 22:21": "A graça do nosso Senhor Jesus Cristo seja com todos.",
+   "GEN 1:1": "No princípio criou Deus os céus e a terra."
+  },
+  "idioma": "pt",
+  "ruta": "pt/blivre.json",
+  "sha256": "08794d7540e7e9726d75dea6a959c024701f83b652bbc6323ac2ebc8649f5e05",
+  "bytes": 4587568
+ },
+ "darby-fr": {
+  "versiculos": 31167,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 139,
+  "faltanEjemplos": [
+   "GEN 31:55",
+   "EXO 8:29",
+   "EXO 8:30",
+   "EXO 8:31",
+   "EXO 8:32",
+   "EXO 22:31",
+   "LEV 6:24",
+   "LEV 6:25",
+   "LEV 6:26",
+   "LEV 6:27",
+   "LEV 6:28",
+   "LEV 6:29"
+  ],
+  "sobran": 202,
+  "sobranEjemplos": [
+   "GEN 32:33",
+   "EXO 7:26",
+   "EXO 7:27",
+   "EXO 7:28",
+   "EXO 7:29",
+   "EXO 21:37",
+   "LEV 5:20",
+   "LEV 5:21",
+   "LEV 5:22",
+   "LEV 5:23",
+   "LEV 5:24",
+   "LEV 5:25"
+  ],
+  "clave": {
+   "PSA 23:1": "Psaume de David. L’ Éternel est mon berger: je ne manquerai de rien.",
+   "JHN 3:16": "Car Dieu a tant aimé le monde, qu’il a donné son Fils unique, afin que quiconque croit en ",
+   "JOL 2:28": "",
+   "MAL 4:5": "",
+   "ROM 8:28": "– mais nous savons que toutes choses travaillent ensemble pour le bien de ceux qui aiment ",
+   "REV 22:21": "Que la grâce du seigneur Jésus Christ soit avec tous les saints.",
+   "GEN 1:1": "Au commencement Dieu créa les cieux et la terre."
+  },
+  "idioma": "fr",
+  "ruta": "fr/darby-fr.json",
+  "sha256": "84706085141642bae8b777777fbb879fdc54c90d23fbd54f01e9f08ed0c9de32",
+  "bytes": 5130505
+ },
+ "elb1905": {
+  "versiculos": 31102,
+  "libros": 66,
+  "librosQueFaltan": [],
+  "faltan": 2,
+  "faltanEjemplos": [
+   "3JN 1:15",
+   "REV 12:18"
+  ],
+  "sobran": 0,
+  "sobranEjemplos": [],
+  "clave": {
+   "PSA 23:1": "Ein Psalm von David. Jehova ist mein Hirte, mir wird nichts mangeln.",
+   "JHN 3:16": "Denn also hat Gott die Welt geliebt, daß er seinen eingeborenen Sohn gab, auf daß jeder, d",
+   "JOL 2:28": "Und danach wird es geschehen, daß ich meinen Geist ausgießen werde über alles Fleisch; und",
+   "MAL 4:5": "Siehe, ich sende euch Elia, den Propheten, ehe der Tag Jehovas kommt, der große und furcht",
+   "ROM 8:28": "Wir wissen aber, daß denen, die Gott lieben, alle Dinge zum Guten mitwirken, denen, die na",
+   "REV 22:21": "Die Gnade des Herrn Jesus Christus sei mit allen Heiligen!",
+   "GEN 1:1": "Im Anfang schuf Gott die Himmel und die Erde."
+  },
+  "idioma": "de",
+  "ruta": "de/elb1905.json",
+  "sha256": "139906101bc49474621095284d01e6c551c679a1797e37b9c8d79cf8a102c6de",
+  "bytes": 5038841
+ }
+}
