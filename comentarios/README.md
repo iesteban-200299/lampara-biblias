@@ -29,5 +29,10 @@ Textos que la app Lámpara descarga bajo pedido (no vienen dentro de la app).
 | comentarios-winslow-pt.json | Traducción de Lámpara | portugués |
 | comentarios-winslow-fr.json | Traducción de Lámpara | francés |
 | comentarios-winslow-de.json | Traducción de Lámpara | alemán |
+| comentarios-plumer-rom.json | William S. Plumer (1802-1880), Commentary on Paul's Epistle to the Romans (1870) | inglés (original) |
+| comentarios-plumer-rom-es.json | Traducción de Lámpara | español |
+| comentarios-plumer-rom-pt.json | Traducción de Lámpara | portugués |
+| comentarios-plumer-rom-fr.json | Traducción de Lámpara | francés |
+| comentarios-plumer-rom-de.json | Traducción de Lámpara | alemán |
 
-Las obras originales son de dominio público. Fuentes del texto inglés: Gill, SOTW Historical Commentaries (origen HelloAO); Spurgeon, CrossWire; Ryle, Christian Classics Ethereal Library (Mateo) y escaneos de Internet Archive (Marcos y Juan); Hugh Martin, escaneo de Internet Archive; Winslow, edición de Monergism (con las citas bíblicas en la King James).
+Las obras originales son de dominio público. Fuentes del texto inglés: Gill, SOTW Historical Commentaries (origen HelloAO); Spurgeon, CrossWire; Ryle, Christian Classics Ethereal Library (Mateo) y escaneos de Internet Archive (Marcos y Juan); Hugh Martin, escaneo de Internet Archive; Winslow, edición de Monergism (con las citas bíblicas en la King James); Plumer (Romanos), escaneo de Internet Archive.
