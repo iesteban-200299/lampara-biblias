@@ -24,5 +24,10 @@ Textos que la app Lámpara descarga bajo pedido (no vienen dentro de la app).
 | comentarios-martin-pt.json | Traducción de Lámpara | portugués |
 | comentarios-martin-fr.json | Traducción de Lámpara | francés |
 | comentarios-martin-de.json | Traducción de Lámpara | alemán |
+| comentarios-winslow.json | Octavius Winslow (1808-1878), No Condemnation in Christ Jesus, as Unfolded in the Eighth Chapter of the Epistle to the Romans (1852); citas bíblicas en la King James | inglés (original) |
+| comentarios-winslow-es.json | Traducción de Lámpara | español |
+| comentarios-winslow-pt.json | Traducción de Lámpara | portugués |
+| comentarios-winslow-fr.json | Traducción de Lámpara | francés |
+| comentarios-winslow-de.json | Traducción de Lámpara | alemán |
 
-Las obras originales son de dominio público. Fuentes del texto inglés: Gill, SOTW Historical Commentaries (origen HelloAO); Spurgeon, CrossWire; Ryle, Christian Classics Ethereal Library (Mateo) y escaneos de Internet Archive (Marcos y Juan); Hugh Martin, escaneo de Internet Archive.
+Las obras originales son de dominio público. Fuentes del texto inglés: Gill, SOTW Historical Commentaries (origen HelloAO); Spurgeon, CrossWire; Ryle, Christian Classics Ethereal Library (Mateo) y escaneos de Internet Archive (Marcos y Juan); Hugh Martin, escaneo de Internet Archive; Winslow, edición de Monergism (con las citas bíblicas en la King James).
