@@ -34,5 +34,10 @@ Textos que la app Lámpara descarga bajo pedido (no vienen dentro de la app).
 | comentarios-plumer-rom-pt.json | Traducción de Lámpara | portugués |
 | comentarios-plumer-rom-fr.json | Traducción de Lámpara | francés |
 | comentarios-plumer-rom-de.json | Traducción de Lámpara | alemán |
+| comentarios-pink-heb.json | Arthur W. Pink (1886-1952), An Exposition of Hebrews (publicada por entregas en Studies in the Scriptures, 1928-1948) | inglés (original) |
+| comentarios-pink-heb-es.json | Traducción de Lámpara | español |
+| comentarios-pink-heb-pt.json | Traducción de Lámpara | portugués |
+| comentarios-pink-heb-fr.json | Traducción de Lámpara | francés |
+| comentarios-pink-heb-de.json | Traducción de Lámpara | alemán |
 
-Las obras originales son de dominio público. Fuentes del texto inglés: Gill, SOTW Historical Commentaries (origen HelloAO); Spurgeon, CrossWire; Ryle, Christian Classics Ethereal Library (Mateo) y escaneos de Internet Archive (Marcos y Juan); Hugh Martin, escaneo de Internet Archive; Winslow, edición de Monergism (con las citas bíblicas en la King James); Plumer (Romanos), escaneo de Internet Archive.
+Las obras originales son de dominio público. Fuentes del texto inglés: Gill, SOTW Historical Commentaries (origen HelloAO); Spurgeon, CrossWire; Ryle, Christian Classics Ethereal Library (Mateo) y escaneos de Internet Archive (Marcos y Juan); Hugh Martin, escaneo de Internet Archive; Winslow, edición de Monergism (con las citas bíblicas en la King James); Plumer (Romanos), escaneo de Internet Archive; Pink (Hebreos), escaneo de Internet Archive.
